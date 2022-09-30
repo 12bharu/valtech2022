@@ -1,5 +1,5 @@
 package devops;
 
-public interface Arthmatic {
+public class Arthmatic {
 
 }
